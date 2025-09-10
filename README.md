@@ -12,7 +12,8 @@
   - kleine/geen leercurve
   - draw.io dwingt geen UML af, waardoor onze studenten beter moeten snappen wat ze doen.
   - geen codegeneratie meer mogelijk
-- [ ] contacteren bedrijven voor werkveldcommisie (ergens in November)
+- [ ] contacteren bedrijven voor werkveldcommisie (ergens in November 's avonds, een uur of 2-3) -> Contactpersoon voor Liesbeth om te contacteren
+  - [ ] xplore-groep?
   - [ ] jcrafters? (zit onder xplore-groep)
   - [ ] wild goose?
   - [ ] WSE?
